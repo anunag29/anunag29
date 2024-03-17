@@ -5,11 +5,12 @@
 
 ## About me
 
-Hi there 👋. I’m Sagar Viradiya, a skilled and results-driven Android Developer with a strong background in Android app development and a passion for crafting high-quality apps and libraries. With a keen eye for quality and a deep understanding of the Android ecosystem, I build solutions that are not only functional but also delightful. Besides my 9to5, I love to give back to the community by blogging, speaking, and open-sourcing my ideas. My love for community led me to Google Developer Expert for Android. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I’m Anup Nagdeve, final year Aerospace Engineering student at IIT Bombay, driven by a passion for solving real-world challenges through the application of mathematical models and machine learning techniques.
+
+My prior experience includes work in computer vision, large language models (LLMs), sales forecasting, and web development. Currently, I am delving into the applications of reinforcement learning methods in robotics and finance fields.
 
 ## Get in touch :coffee:
 
 - [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- [LinkedIn](https://www.linkedin.com/in/nagdeve-anup/)
+- [nagdeveanup29@gmail.com](mailto:nagdeveanup29@gmail.com)
