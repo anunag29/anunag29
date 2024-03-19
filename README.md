@@ -11,6 +11,6 @@ My prior experience includes work in computer vision, large language models (LLM
 
 ## Get in touch :coffee:
 
-- [Personal Blog](https://sagarviradiya.dev)
+- [Personal Blog](https://anunag29.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/nagdeve-anup/)
 - [nagdeveanup29@gmail.com](mailto:nagdeveanup29@gmail.com)
